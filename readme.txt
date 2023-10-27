@@ -1,5 +1,11 @@
 Welcome to my project of Monopoly.
 
+![Screenshot](board_final.jpg)
+
+<p align="center">
+  <img src="./boards_final.jpg" width="350" title="hover text">
+</p>
+
 To run the program I have included a make file.
 However SFML will need to be installed first.
 
