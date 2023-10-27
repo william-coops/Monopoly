@@ -1,0 +1,7 @@
+Advance to Go(collect $200) 0
+Advance to Mayfair 39
+Advance to Pall Mall 24
+Advance to Trafalgar Square 13
+Advance to Bow Street 8
+Go to Jail 30
+Advance to Kings Cross Station 25
