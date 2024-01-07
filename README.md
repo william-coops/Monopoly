@@ -1,5 +1,7 @@
 Welcome to my project of Monopoly.
 
+Report of creation, thought process and sucess of project: [Report](MonopolyReport.pdf)
+
 ![Screenshot](./board_final.jpg)
 
 To run the program I have included a make file.
